@@ -6,7 +6,7 @@
 </h1>
  -->
 <p align="center">
-    <i>Michiru-bot is a Discord Bot created in C# using Discord.NET. This bot is designed for use on the Skyline emulator discord server.</i><br/><br>
+    <i>Michiru-bot is a Discord Bot created in C# using Discord.NET.</i><br/><br>
 </p>
 
 <!-- ### Contact
